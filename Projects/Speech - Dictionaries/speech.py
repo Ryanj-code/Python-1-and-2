@@ -1,7 +1,7 @@
 import pprint
 #Import pprint(prettyprint)
 
-speech = open('roywilk.txt', 'r')
+speech = open('mlk.txt', 'r')
 speech = speech.read()
 speech = speech.lower()
 #Opens and reads the speech
