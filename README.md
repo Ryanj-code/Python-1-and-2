@@ -1,2 +1,2 @@
 # Python-Work
-Python work prior to AP-CSA
+Projects, assignments, and work in Python prior to AP-CSA
